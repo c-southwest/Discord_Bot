@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gQuwRHtXXe0g7RQRvj+dUnt6NESGqS7oviCM58waVGc=",
+  "Source": "BCI_Bot",
+  "BasePath": "_content/BCI_Bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

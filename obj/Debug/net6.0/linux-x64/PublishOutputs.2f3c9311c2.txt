@@ -1,0 +1,2 @@
+C:\Users\West\Desktop\Dev\BCI_Bot\bin\Debug\net6.0\linux-x64\publish\BCI_Bot.pdb
+C:\Users\West\Desktop\Dev\BCI_Bot\bin\Debug\net6.0\linux-x64\publish\BCI_Bot
